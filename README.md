@@ -32,4 +32,4 @@ This tool can be used to uninstall bloatware which comes pre-installed and canno
 
 
 <br><br>
-©️ Copyright - [Reajul Hasan Raju](https://github.com/ReajulHasanRaju)
+©️ Copyright - [Reajul Hasan Raju](https://twitter.com/rhraju03)

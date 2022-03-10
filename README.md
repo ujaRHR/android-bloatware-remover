@@ -1,6 +1,6 @@
-# Android Bloatware Remover Tools
+<h1 align="center"> Android Bloatware Remover Tools </h1>
 
-This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly.
+<p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly.</p>
 
 **<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Safe to use  
 <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> Root is not required  

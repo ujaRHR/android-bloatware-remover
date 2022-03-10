@@ -1,35 +1,47 @@
-<h1 align="center">
-    Android Bloatware Remover Tools
-</h1>
+# Android Bloatware Remover Tools
 
-<p align="center">
 This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly.
-</p>
 
-**✔ Safe to use <br>
-❌ Root is not required <br>
-🛠 You can add/remove app list <br>
-🌐 All Android ROMs are supported<br>
-💻 Works on any Operating System** <br>
-<br>
+**<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Safe to use  
+<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> Root is not required  
+<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> You can add/remove app list  
+<g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> All Android ROMs are supported  
+<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Works on any Operating System**  
 
-# Pre-requisites:
-⚠️ You must have **ADB** installed on your Computer. Download it from [here](https://developer.android.com/studio/releases/platform-tools#downloads). <br>
-⚠️ Developer options and USB Debugging should be enabled on mobile phone. Follow [this tutorial...](https://github.com/ReajulHasanRaju/android-bloatware-remover/blob/main/edo.md) <br>
+# [](#pre-requisites)Pre-requisites:
 
-# **How to use?**
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> You must have **ADB** installed on your Computer. Download it from [here](https://developer.android.com/studio/releases/platform-tools#downloads).  
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Developer options and USB Debugging should be enabled on mobile phone. Follow [this tutorial...](https://github.com/ujarhr/android-bloatware-remover/blob/main/edo.md)  
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Make sure to connect your mobile with PC and allow USB Debugging.  
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> run `adb devices` command to check the connection.
 
-#### 🖥 For Windows:
-#### 🐧 For Linux / Mac:
+# [](#how-to-use)**How to use?**
 
-### Hints
-✔ Success -- Uninstalled successfully <br>
-❌ Failure [not installed for 0] -- App is not installed
+#### [](#-for-windows)<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> For Windows:
 
-### 📱 Tested On
-- Xiaomi, Oppo, Realme, Vivo
-- Samsung, Oneplus, Walton, Techno
+*   Clone this repository.
+*   Go to the 'Windows' folder and Open Command Prompt in this path.
+*   Execute the specific batch file for your device.
+*   Example: `xiaomi.bat` or `samsung.bat`
 
+#### [](#-for-linux--mac)<g-emoji class="g-emoji" alias="penguin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f427.png">🐧</g-emoji> For Linux / Mac:
 
-<br><br>
-©️ Copyright - [Reajul Hasan Raju](https://twitter.com/rhraju03)
+*   Clone this repository.
+*   Go to the 'Linux-MacOS' folder and Open Terminal in this path.
+*   Execute the specific bash script for your device.
+*   Make sure that the file is executable. If not use `sudo chmod +x filename.bash`
+*   Example: `./xiaomi.bash` or `./google.bash`
+
+### [](#hints)Hints
+
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Success -- Uninstalled successfully  
+<g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> Failure [not installed for 0] -- App is not installed
+
+### [](#-tested-on)<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Tested On
+
+*   Xiaomi, Oppo, Realme, Vivo
+*   Samsung, Oneplus, Walton, Techno
+
+<g-emoji class="g-emoji" alias="copyright" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/00a9.png">©️</g-emoji> Copyright - [Reajul Hasan Raju](https:twitter.com/rhraju03)  
+
+[![ko-fi](https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/Z8Z574KG0)

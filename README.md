@@ -9,7 +9,7 @@
 <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Works on any Operating System**  
 
 # [](#pre-requisites)Pre-requisites:
-
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> To install adb on Debisn/Ubuntu-based linux type this in terminal `sudo apt install adb`
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> You must have **ADB** installed on your Computer. Download it from [here](https://developer.android.com/studio/releases/platform-tools#downloads).  
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Developer options and USB Debugging should be enabled on mobile phone. Follow [this tutorial...](https://github.com/ujarhr/android-bloatware-remover/blob/main/edo.md)  
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Make sure to connect your mobile with PC and allow USB Debugging.  
@@ -17,12 +17,7 @@
 
 # [](#how-to-use)**How to use?**
 
-#### [](#-for-windows)<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> For Windows:
 
-*   Clone this repository.
-*   Go to the 'Windows' folder and Open Command Prompt in this path.
-*   Execute the specific batch file for your device.
-*   Example: `xiaomi.bat` or `samsung.bat`
 
 #### [](#-for-linux--mac)<g-emoji class="g-emoji" alias="penguin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f427.png">🐧</g-emoji> For Linux / Mac:
 

@@ -69,7 +69,6 @@ declare -a arr=(
     "com.google.android.inputmethod.pinyin"
     "com.google.android.inputmethod.japanese"
     "com.google.android.inputmethod.korean"
-    "com.google.android.apps.docs"
     "com.google.android.apps.photos"
     "com.google.android.apps.tachyon"
     "com.google.android.apps.translate"
@@ -77,7 +76,6 @@ declare -a arr=(
     "com.google.android.apps.books"
     "com.google.android.feedback"
     "com.google.android.apps.magazines"
-    "com.google.android.apps.maps"
     "com.google.android.projection.gearhead"
     "com.google.android.apps.walletnfcrel"
     "com.google.android.apps.wallet"
@@ -88,7 +86,6 @@ declare -a arr=(
     "com.google.android.apps.subscriptions.red"
     "com.google.android.apps.podcasts"
     "com.google.android.music"
-    "com.google.ar.lens"
     "com.google.android.apps.wellbeing"
     "com.google.android.apps.safetyhub"
     

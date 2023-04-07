@@ -30,7 +30,7 @@
 *   Go to the 'Linux-MacOS' folder and Open Terminal in this path.
 *   Execute the specific bash script for your device.
 *   Make sure that the file is executable. If not use `sudo chmod +x filename.bash`
-*   Example: `./xiaomi.bash` or `./google.bash` or 'sudo bash xiaomi.bash'
+*   Example: `./xiaomi.bash` or `./google.bash` or `sudo bash xiaomi.bash`
 
 ### [](#hints)Hints
 

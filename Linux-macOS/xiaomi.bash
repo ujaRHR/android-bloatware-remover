@@ -91,6 +91,7 @@ declare -a arr=(
     "com.google.android.music"
     "com.google.ar.lens"
     "com.google.android.apps.wellbeing"
+    "com.google.android.apps.safetyhub"
     
     
     

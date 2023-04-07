@@ -11,7 +11,6 @@ declare -a arr=(
     ############################################################
     "cn.wps.xiaomi.abroad.lite"
     "cn.wps.moffice_eng"
-    "com.duokan.phone.remotecontroller"
     "com.miui.klo.bugreport"
     "com.miui.virtualsim"
     "com.mi.global.bbs"
@@ -48,13 +47,11 @@ declare -a arr=(
     "com.miui.hybrid.accessory"
     "com.xiaomi.joyose"
     "com.mi.globalTrendNews"
-    "com.miui.compass"
     "com.miui.enbbs"
     "com.miui.huanji"
     "com.miui.nextpay"
     "com.miui.translation.kingsoft"
     "com.miui.userguide"
-    "com.miui.mishare.connectivity"
     
     
     

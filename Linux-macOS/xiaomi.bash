@@ -79,7 +79,6 @@ declare -a arr=(
     "com.google.android.apps.magazines"
     "com.google.android.apps.maps"
     "com.google.android.projection.gearhead"
-    "com.google.android.apps.messaging"
     "com.google.android.apps.walletnfcrel"
     "com.google.android.apps.wallet"
     "com.google.android.apps.youtube.music"
@@ -91,6 +90,7 @@ declare -a arr=(
     "com.google.android.music"
     "com.google.ar.lens"
     "com.google.android.apps.wellbeing"
+    "com.google.android.apps.safetyhub"
     
     
     

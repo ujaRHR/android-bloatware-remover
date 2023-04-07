@@ -52,6 +52,7 @@ declare -a arr=(
     "com.miui.nextpay"
     "com.miui.translation.kingsoft"
     "com.miui.userguide"
+    "com.miui.cleaner"
     
     
     

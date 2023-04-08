@@ -1,7 +1,7 @@
 <h1 align="center"> Android Bloatware Remover Tools </h1>
 
 <p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly  </p>
-<p align="center">Specially modified & updated for linux users </p>
+<p align="center">[ Specially modified & updated for linux users ]</p>
 
 
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Safe to use  

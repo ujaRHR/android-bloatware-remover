@@ -3,7 +3,6 @@
 <p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly.</p>
 
 **
-
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Safe to use  
 <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> Root is not required  
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> You can add/remove app list  
@@ -19,8 +18,6 @@ or download it from [here](https://developer.android.com/studio/releases/platfor
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> run `adb devices` command to check the connection.
 
 # [](#how-to-use)**How to use?**
-
-
 
 #### [](#-for-linux--mac)<g-emoji class="g-emoji" alias="penguin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f427.png">🐧</g-emoji> For Linux / Mac:
 
@@ -40,6 +37,5 @@ or download it from [here](https://developer.android.com/studio/releases/platfor
 *   Xiaomi, Oppo, Realme, Vivo
 *   Samsung, Oneplus, Walton, Techno
 
-**©️Copyright** - [Reajul Hasan Raju](https://twitter.com/rhraju03)  
+**©️Copyright** - [Reajul Hasan Raju]
 
-[![ko-fi](https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/Z8Z574KG0)

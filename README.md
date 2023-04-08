@@ -1,6 +1,6 @@
 <h1 align="center"> Android Bloatware Remover Tools </h1>
 
-<p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly._(Specially modified & updated for linux users)_</p>
+<p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly _(Specially modified & updated for linux users)_</p>
 
 **
 

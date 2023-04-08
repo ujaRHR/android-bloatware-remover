@@ -39,5 +39,5 @@ or download it from [here](https://developer.android.com/studio/releases/platfor
 
 **©️Copyright** - [Reajul Hasan Raju]
 
-**** Modified & Updated by [Mahmudul Hoque Khan]
+** Modified & Updated by [Mahmudul Hoque Khan]
 **

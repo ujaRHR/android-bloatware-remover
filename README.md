@@ -1,4 +1,4 @@
-<h1 align="center"> Android Bloatware Remover Tools </h1>
+<h1 align="center"> Android System App Remover Tool </h1>
 
 <p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly  </p>
 <p align="center">[ Specially modified & updated for linux users ]</p>

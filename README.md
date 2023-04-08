@@ -3,6 +3,7 @@
 <p align="center">This tool can be used to uninstall bloatware which comes pre-installed and cannot be uninstalled directly.</p>
 
 **
+
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔</g-emoji> Safe to use  
 <g-emoji class="g-emoji" alias="x" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/274c.png">❌</g-emoji> Root is not required  
 <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> You can add/remove app list  

@@ -63,7 +63,6 @@ declare -a arr=(
     "com.google.android.apps.googleassistant"
     "com.android.hotwordenrollment.xgoogle"
     "com.google.android.apps.magazines"
-    "com.google.android.inputmethod.latin"
     "com.google.android.inputmethod.pinyin"
     "com.google.android.inputmethod.japanese"
     "com.google.android.inputmethod.korean"

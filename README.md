@@ -11,7 +11,7 @@
  
 
 # [](#pre-requisites)Pre-requisites:
-<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> To install adb on Debisn/Ubuntu-based linux type this in terminal `sudo apt install adb`.
+<g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> To install adb on Debisn/Ubuntu-based linux type this in terminal `sudo apt install adb`
 or download it from [here](https://developer.android.com/studio/releases/platform-tools#downloads).  
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Developer options and USB Debugging should be enabled on mobile phone. Follow [this tutorial..](https://github.com/ujarhr/android-bloatware-remover/blob/main/edo.md)  
 <g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> Make sure to connect your mobile with PC and allow USB Debugging.  

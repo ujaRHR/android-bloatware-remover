@@ -53,7 +53,7 @@ declare -a arr=(
     "com.miui.translation.kingsoft"
     "com.miui.userguide"
     "com.miui.cleaner"
-    com.mi.android.globalminusscreen
+    "com.mi.android.globalminusscreen"
     
     
     ############################################################

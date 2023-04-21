@@ -54,6 +54,7 @@ declare -a arr=(
     "com.miui.userguide"
     "com.miui.cleaner"
     "com.mi.android.globalminusscreen"
+    "com.miui.player"
     
     
     ############################################################

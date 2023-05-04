@@ -54,7 +54,7 @@ declare -a arr=(
     "com.miui.userguide"
     "com.miui.cleaner"
     "com.mi.android.globalminusscreen"
-    "com.miui.player" ## Removing Mi Video will cause no slow-mo video playback ##
+    "com.miui.player" # Removing Mi Video will cause no slow-mo video playback.
     
     
     ############################################################

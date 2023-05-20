@@ -2,7 +2,7 @@
 
 ## Declaring array of packages to uninstall ##
 declare -a arr=(
-    "com.transsnet.store"
+    "com.amazon.appmanager"
 )
 
 rm_pkg="adb shell pm uninstall --user 0"

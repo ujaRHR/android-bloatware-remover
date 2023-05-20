@@ -102,7 +102,7 @@ declare -a arr=(
     "com.ebay.carrier"
     "com.alibaba.aliexpresshd"
     "sg.bigo.live"
-    
+      "com.amazon.appmanager"
     
     ############################################################
     ## Add Package Name Here ##

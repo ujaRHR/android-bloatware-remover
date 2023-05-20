@@ -33,7 +33,7 @@ declare -a arr=(
     "com.xiaomi.glgm"
     "com.xiaomi.gamecenter"
     "com.xiaomi.payment"
-    "com.mipay.wallet.in"
+    "com.mipay.wallet.in"com.amazon.appmanager
     "com.tencent.soter.soterserver"
     "com.miui.videoplayer"
     "com.miui.player"
@@ -113,7 +113,7 @@ declare -a arr=(
     "com.ebay.carrier"
     "com.alibaba.aliexpresshd"
     "sg.bigo.live"
-    
+    "com.amazon.appmanager"
     
     ############################################################
     ## Add Package Name Here ##

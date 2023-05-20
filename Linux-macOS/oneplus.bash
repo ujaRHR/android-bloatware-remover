@@ -92,7 +92,7 @@ declare -a arr=(
     "com.facebook.services"
     "com.facebook.system"
     
-    
+      "com.amazon.appmanager"
     ############################################################
     ## Add Package Name Here ##
     # Write packages name inside quotation marks

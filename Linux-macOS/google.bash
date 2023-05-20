@@ -40,7 +40,7 @@ declare -a arr=(
     "com.google.android.apps.wellbeing"
     "com.android.chrome"
     
-    
+      "com.amazon.appmanager"
     
     ############################################################
     ## Add Package Name Here ##

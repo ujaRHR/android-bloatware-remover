@@ -33,7 +33,7 @@ declare -a arr=(
     "com.xiaomi.glgm"
     "com.xiaomi.gamecenter"
     "com.xiaomi.payment"
-    "com.mipay.wallet.in"com.amazon.appmanager
+    "com.mipay.wallet.in"
     "com.tencent.soter.soterserver"
     "com.miui.videoplayer"
     "com.miui.player"

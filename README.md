@@ -39,8 +39,9 @@
 
 ### [](#-tested-on)<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Tested On
 
-*   Xiaomi, Oppo, Realme, Vivo
-*   Samsung, Oneplus, Walton, Techno
+*   Google Pixel, Samsung
+*   Xiaomi, Oppo, Realme,
+*   Vivo, Oneplus,Techno
 
 **©️Copyright** - [Reajul Hasan Raju](https://twitter.com/rhraju03)  
 

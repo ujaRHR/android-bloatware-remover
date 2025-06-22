@@ -28,9 +28,9 @@
 
 *   Clone this repository.
 *   Go to the 'Linux-MacOS' folder and Open Terminal in this path.
-*   Execute the specific bash script for your device.
-*   Make sure that the file is executable. If not, use `sudo chmod +x filename.bash`
-*   Example: `./xiaomi.bash` or `./google.bash`
+*   Execute the specific shell script for your device.
+*   Make sure that the file is executable. If not, use `sudo chmod +x filename.sh`
+*   Example: `./xiaomi.sh` or `./google.sh`
 
 ### [](#hints)Hints
 
@@ -39,8 +39,8 @@
 
 ### [](#-tested-on)<g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Tested On
 
-*   Google Pixel, Samsung
+*   Pixel, Samsung, NOthing
 *   Xiaomi, Oppo, Realme,
 *   Vivo, Oneplus,Techno
 
-**©️ Created By** - [Reajul Hasan Raju](https://twitter.com/rhraju03)
+**©️ Created By** - [Reajul Hasan Raju](https://tgithub.com/ujaRHR)

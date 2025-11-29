@@ -43,4 +43,4 @@
 *   Xiaomi, Oppo, Realme,
 *   Vivo, Oneplus,Techno
 
-**©️ Created By** - [Reajul Hasan Raju](https://tgithub.com/ujaRHR)
+**©️ Created By** - [Reajul Hasan Raju](https://x.com/ujaRHR)
